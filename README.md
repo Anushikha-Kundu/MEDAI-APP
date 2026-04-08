@@ -36,35 +36,6 @@
 - Editable profile with name and photo
 - Set profile picture from **Camera** or **Gallery**
 - Data persisted locally via SharedPreferences
-
----
-
-## 🏗️ Project Structure
-
-```
-MEDAI-APP/
-├── app/
-│   └── src/
-│       └── main/
-│           ├── java/com/example/app/
-│           │   ├── SplashActivity.java          # Launch screen
-│           │   ├── LoginActivity.java           # User login
-│           │   ├── SignupActivity.java          # User registration
-│           │   ├── DashboardActivity.java       # Main hub (4-feature grid)
-│           │   ├── SymptomCheckerActivity.java  # Symptom input & chips
-│           │   ├── LoadingActivity.java         # AI processing animation
-│           │   ├── ResultActivity.java          # Diagnosis result display
-│           │   ├── FindDoctorActivity.java      # Doctor search & listing
-│           │   ├── MedicalSupportActivity.java  # Medical guidance
-│           │   ├── HealthHistoryActivity.java   # Tabbed health records
-│           │   ├── ProfileActivity.java         # Profile view
-│           │   ├── ProfileEditActivity.java     # Profile editor
-│           │   └── ...adapters, models, utils
-│           ├── res/                             # Layouts, drawables, values
-│           └── AndroidManifest.xml
-└── build.gradle.kts
-```
-
 ---
 
 ## 🛠️ Tech Stack
@@ -153,9 +124,11 @@ Contributions are welcome! Please follow these steps:
 4. Push to the branch: `git push origin feature/your-feature-name`
 5. Open a Pull Request
 
+---
+
 ## 👩‍💻 Author
 
-**Anushikha Kundu** 
+**Anushikha Kundu**  
 [GitHub](https://github.com/Anushikha-Kundu)
 
 ---
