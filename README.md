@@ -4,10 +4,6 @@
 
 ---
 
-## 📱 Screenshots
-
-> _Add your screenshots here_
-
 ---
 
 ## ✨ Features
